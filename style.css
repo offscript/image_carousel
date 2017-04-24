@@ -1,3 +1,15 @@
+body .row {
+  border: 2px solid black; }
+  body .row .col-md-6 {
+    border: 1px solid black;
+    margin: 0 auto;
+    height: 200px;
+    float: none;
+    overflow: auto; }
+    body .row .col-md-6 #slider {
+      list-style-type: none; }
 
+.visible {
+  display: block; }
 
 /*# sourceMappingURL=style.css.map */
